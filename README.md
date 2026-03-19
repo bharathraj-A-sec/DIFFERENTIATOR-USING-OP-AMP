@@ -1,7 +1,7 @@
 # DIFFERENTIATOR-USING-OP-AMP
 
 AIM:
-To design and test the performance of differentiator circuits using Op-amp.
+To design and test the performance of differentiator circuits using Op-amp
 
 APPARATUS REQUIRED:
 <img width="711" height="200" alt="image" src="https://github.com/user-attachments/assets/bb2d2881-17e3-4c7d-bbb1-ad332bbbc5c9" />
